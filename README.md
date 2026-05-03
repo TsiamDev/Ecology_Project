@@ -1,3 +1,6 @@
+<img width="3238" height="3000" alt="ecology_project" src="https://github.com/user-attachments/assets/04f07f71-1ead-4702-a09e-1fb2a0f25193" />
+
+
 # Ecology_Project
 
 # Summary
