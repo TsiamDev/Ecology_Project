@@ -14,11 +14,13 @@ Following preprocessing, the dataset is segmented using an unsupervised k-means 
 Looking ahead, the computational pipeline can be strengthened by expanding the AI component. While k-means offers reliable baseline segmentation, future iterations may incorporate deep learning models, such as convolutional neural networks, to classify stress states, detect anomalies, or predict growth trajectories based on temporal patterns. Training these models on the current dataset—augmented with additional labeled samples—would enable more automated, accurate, and scalable ecological assessments, ultimately transforming the system into a predictive tool rather than a purely observational one.
 
 # Data Samples
-<p>
+<table>
+  <tr>
 <img width="100" height="100" alt="plant_isolated_13" src="https://github.com/user-attachments/assets/f2bf54d2-fd1c-415f-bf8f-fe7b9ec8d2c8" />
 <img width="100" height="100" alt="plant_isolated_12" src="https://github.com/user-attachments/assets/b5e933f4-9613-40bc-81a1-d70d936f1c86" />
 <img width="100" height="100" alt="plant_isolated_11" src="https://github.com/user-attachments/assets/264814c4-ba59-46fb-892a-26b4f172d894" />
 <img width="100" height="100" alt="plant_isolated_03" src="https://github.com/user-attachments/assets/86ee008d-c4aa-4ee4-9fff-5a37be62bd0b" />
 <img width="100" height="100" alt="plant_isolated_02" src="https://github.com/user-attachments/assets/b43384be-b607-4167-9ee8-823b561814ea" />
 <img width="100" height="100" alt="plant_isolated_01" src="https://github.com/user-attachments/assets/82785664-0239-4e44-9099-1237ccd72040" />
-</p>
+  </tr>
+</table>
