@@ -16,11 +16,11 @@ Looking ahead, the computational pipeline can be strengthened by expanding the A
 # Data Samples
 <table>
   <tr>
-<img width="100" height="100" alt="plant_isolated_13" src="https://github.com/user-attachments/assets/f2bf54d2-fd1c-415f-bf8f-fe7b9ec8d2c8" />
-<img width="100" height="100" alt="plant_isolated_12" src="https://github.com/user-attachments/assets/b5e933f4-9613-40bc-81a1-d70d936f1c86" />
-<img width="100" height="100" alt="plant_isolated_11" src="https://github.com/user-attachments/assets/264814c4-ba59-46fb-892a-26b4f172d894" />
-<img width="100" height="100" alt="plant_isolated_03" src="https://github.com/user-attachments/assets/86ee008d-c4aa-4ee4-9fff-5a37be62bd0b" />
-<img width="100" height="100" alt="plant_isolated_02" src="https://github.com/user-attachments/assets/b43384be-b607-4167-9ee8-823b561814ea" />
-<img width="100" height="100" alt="plant_isolated_01" src="https://github.com/user-attachments/assets/82785664-0239-4e44-9099-1237ccd72040" />
+<td><img width="100" height="100" alt="plant_isolated_13" src="https://github.com/user-attachments/assets/f2bf54d2-fd1c-415f-bf8f-fe7b9ec8d2c8" /></td>
+<td><img width="100" height="100" alt="plant_isolated_12" src="https://github.com/user-attachments/assets/b5e933f4-9613-40bc-81a1-d70d936f1c86" /></td>
+<td><img width="100" height="100" alt="plant_isolated_11" src="https://github.com/user-attachments/assets/264814c4-ba59-46fb-892a-26b4f172d894" /></td>
+<td><img width="100" height="100" alt="plant_isolated_03" src="https://github.com/user-attachments/assets/86ee008d-c4aa-4ee4-9fff-5a37be62bd0b" /></td>
+<td><img width="100" height="100" alt="plant_isolated_02" src="https://github.com/user-attachments/assets/b43384be-b607-4167-9ee8-823b561814ea" /></td>
+<td><img width="100" height="100" alt="plant_isolated_01" src="https://github.com/user-attachments/assets/82785664-0239-4e44-9099-1237ccd72040" /></td>
   </tr>
 </table>
